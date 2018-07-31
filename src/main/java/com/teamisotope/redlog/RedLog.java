@@ -14,7 +14,7 @@ import static com.teamisotope.redlog.util.RLStatic.*;
 public class RedLog {
 
     @SidedProxy(clientSide = PROXYCLIENT, serverSide = PROXYSERVER)
-    public CommonProxy proxy;
+    public static CommonProxy proxy;
 
     @Mod.Instance
     public static RedLog instance;
