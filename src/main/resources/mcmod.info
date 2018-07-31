@@ -1,0 +1,16 @@
+[
+{
+  "modid": "redlog",
+  "name": "Redstone Logistics",
+  "description": "A mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["The Puzzlemaker", "TheRedguyLeviathan"],
+  "credits": "Many, many, many people.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
